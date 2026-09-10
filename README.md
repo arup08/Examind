@@ -2,10 +2,6 @@
 
 An end-to-end MERN stack web application for teachers to create tests and for students to attempt them with live timer, auto-evaluation, and intuitive UI.
 
-## 🌐 Live Demo
-
-Coming soon...
-
 ## 🚀 Features
 
 ### 👨‍🏫 Teacher Panel
